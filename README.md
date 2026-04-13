@@ -14,6 +14,7 @@ Proyecto desarrollado en React para la gestión de clientes y mascotas.
    npm run dev
 
 5. Pon la carpeta dentro de la raiz del proyecto, junto a las demas carpetas del proyecto, tendria que quedar tal que asi:
+
 el-dogo-react/
 ├── node_modules/       # 🚫 Dependencias instaladas 
 ├── public/             # 🌐 Archivos públicos 
