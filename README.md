@@ -223,6 +223,6 @@ El token expiró o no se está enviando. Cerrá sesión y volvé a loguearte par
 
 <div align="center">
 
-Hecho con 🐾 y React
+Hecho con React
 
 </div>
