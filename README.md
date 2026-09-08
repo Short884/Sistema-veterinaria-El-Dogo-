@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🐾 El Dogo — Frontend Veterinaria
+# 🐾 El Dogo — Veterinaria
 
-### Panel web para la gestión integral de una veterinaria
+### Sistema web para la gestión integral de una veterinaria
 
 Construido con **React** y **Vite** — consume la API REST de la veterinaria, con autenticación JWT persistente y rutas protegidas.
 
