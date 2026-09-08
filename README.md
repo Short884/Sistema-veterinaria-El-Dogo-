@@ -3,7 +3,7 @@
 Proyecto desarrollado en React para la gestión de clientes y mascotas.
 
 ## 🚀 Cómo probarlo
-1. Descarga la carpeta src.
+1. Descarga e importa el proyecto.
 2. Abre la terminal en la carpeta del proyecto.
 3. Instala las dependencias:
    ```bash
