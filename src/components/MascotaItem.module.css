@@ -1,0 +1,52 @@
+.tarjetaMascota {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 12px;
+    border: 1px solid #e0e0e0;
+    border-left: 5px solid #007bff;
+    border-radius: 6px;
+    background-color: #ffffff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    transition: all 0.2s ease-in-out;
+}
+
+.tarjetaMascota:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.infoMascota {
+    flex-grow: 1;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.nombreMascota {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #333333;
+    margin-right: 15px;
+}
+
+.duenio {
+    font-style: italic;
+    color: #6c757d;
+    margin-left: 15px;
+    font-size: 0.9em;
+}
+
+.modoEdicion {
+    width: 100%;
+    padding: 5px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.acciones {
+    display: flex;
+    gap: 8px;
+    margin-left: 20px;
+}
