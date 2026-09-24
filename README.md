@@ -96,7 +96,7 @@ src/
 Antes de instalar, asegurate de tener lo siguiente:
 
 - [Node.js](https://nodejs.org/) v18 o superior
-- El **backend de la API** corriendo (ver el repositorio del backend para instalación y puesta en marcha)
+- El **backend de la API** corriendo (https://github.com/Short884/veterinaria-backend)
 - Un editor de código como [VS Code](https://code.visualstudio.com/)
 
 ## 🚀 Instalación
