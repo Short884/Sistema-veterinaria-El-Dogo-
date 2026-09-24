@@ -1,0 +1,18 @@
+.contenedorPrincipal {
+    padding: 2rem;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0, 0.1);
+}
+
+.titulo {
+    color: #007bff;
+    font-size: 2em;
+    border-bottom: 2px solid #007bff;
+} 
+
+.contador {
+    font-weight: bold;
+    color: #4a4a4a;
+    margin-bottom: 1rem;
+}
